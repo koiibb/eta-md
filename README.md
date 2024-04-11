@@ -1,0 +1,3 @@
+# run
+
+`$ deno task watch`
